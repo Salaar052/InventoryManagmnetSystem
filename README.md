@@ -25,4 +25,5 @@ This project is designed to help **small shops or businesses** manage products, 
 ```bash
 git clone https://github.com/aqeelsaeed138/SAAS-Inventary-Management-Project
 
-
+## 📸 Frontend Preview
+![App Preview](./images/image.png)
